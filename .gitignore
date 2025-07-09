@@ -1,0 +1,9 @@
+# Terraform junk we don't push
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
+
+# Local env
+.vscode/
+*.DS_Store
